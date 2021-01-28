@@ -1,0 +1,870 @@
+C:\Users\xhkj\source\repos\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\xhkj\source\repos\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\xhkj\source\repos\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\xhkj\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\xhkj\source\repos\Shop\Shop\obj\Debug\Shop.Form1.resources
+C:\Users\xhkj\source\repos\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\xhkj\source\repos\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\xhkj\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\xhkj\source\repos\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\xhkj\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\xhkj\source\repos\Shop\Shop\obj\Debug\Shop.forms.Form_Main.resources
+H:\C#\Shop (1)\Shop\bin\Debug\Shop.exe.config
+H:\C#\Shop (1)\Shop\bin\Debug\Shop.exe
+H:\C#\Shop (1)\Shop\bin\Debug\Shop.pdb
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.Form1.resources
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.forms.Form_Main.resources
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.Properties.Resources.resources
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Home.resources
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Sell.resources
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Person.resources
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.exe
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.pdb
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Buy.resources
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Goods.resources
+H:\C#\Shop (1)\Shop\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\C#\Shop (1)\Shop\bin\Debug\netstandard.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.AppContext.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Collections.Concurrent.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Collections.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Collections.NonGeneric.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Collections.Specialized.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.ComponentModel.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.ComponentModel.Primitives.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Console.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Data.Common.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Diagnostics.Contracts.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Diagnostics.Debug.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Diagnostics.Process.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Diagnostics.Tools.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Diagnostics.Tracing.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Drawing.Primitives.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Dynamic.Runtime.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Globalization.Calendars.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Globalization.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Globalization.Extensions.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.Compression.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.IsolatedStorage.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.Pipes.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Linq.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Linq.Expressions.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Linq.Parallel.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Linq.Queryable.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.Http.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.NameResolution.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.NetworkInformation.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.Ping.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.Primitives.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.Requests.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.Security.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.Sockets.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.WebSockets.Client.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Net.WebSockets.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.ObjectModel.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Reflection.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Reflection.Extensions.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Reflection.Primitives.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Resources.Reader.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Resources.ResourceManager.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Resources.Writer.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.Extensions.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.Handles.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.InteropServices.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.Numerics.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Security.Claims.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Security.Principal.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Security.SecureString.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Text.Encoding.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Text.RegularExpressions.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Threading.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Threading.Overlapped.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Threading.Tasks.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Threading.Thread.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Threading.ThreadPool.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Threading.Timer.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.ValueTuple.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Xml.ReaderWriter.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Xml.XDocument.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Xml.XmlDocument.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Xml.XmlSerializer.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Xml.XPath.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\C#\Shop (1)\Shop\bin\Debug\BouncyCastle.Crypto.dll
+H:\C#\Shop (1)\Shop\bin\Debug\Google.Protobuf.dll
+H:\C#\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.dll
+H:\C#\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\C#\Shop (1)\Shop\bin\Debug\K4os.Hash.xxHash.dll
+H:\C#\Shop (1)\Shop\bin\Debug\MySql.Data.dll
+H:\C#\Shop (1)\Shop\bin\Debug\Renci.SshNet.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Buffers.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Memory.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Numerics.Vectors.dll
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\C#\Shop (1)\Shop\bin\Debug\Ubiety.Dns.Core.dll
+H:\C#\Shop (1)\Shop\bin\Debug\Zstandard.Net.dll
+H:\C#\Shop (1)\Shop\bin\Debug\Google.Protobuf.pdb
+H:\C#\Shop (1)\Shop\bin\Debug\Google.Protobuf.xml
+H:\C#\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.xml
+H:\C#\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\C#\Shop (1)\Shop\bin\Debug\K4os.Hash.xxHash.xml
+H:\C#\Shop (1)\Shop\bin\Debug\MySql.Data.xml
+H:\C#\Shop (1)\Shop\bin\Debug\Renci.SshNet.xml
+H:\C#\Shop (1)\Shop\bin\Debug\System.Buffers.xml
+H:\C#\Shop (1)\Shop\bin\Debug\System.Memory.xml
+H:\C#\Shop (1)\Shop\bin\Debug\System.Numerics.Vectors.xml
+H:\C#\Shop (1)\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.exe.config
+H:\C#\Shop (1)\Shop\obj\Debug\Shop.csproj.CopyComplete
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Shop.exe.config
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Shop.exe
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Shop.pdb
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\netstandard.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.AppContext.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Collections.Concurrent.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Collections.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Collections.NonGeneric.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Collections.Specialized.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.ComponentModel.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.ComponentModel.Primitives.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Console.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Data.Common.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Diagnostics.Contracts.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Diagnostics.Debug.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Diagnostics.Process.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Diagnostics.Tools.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Diagnostics.Tracing.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Drawing.Primitives.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Dynamic.Runtime.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Globalization.Calendars.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Globalization.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Globalization.Extensions.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.Compression.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.IsolatedStorage.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.Pipes.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Linq.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Linq.Expressions.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Linq.Parallel.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Linq.Queryable.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.Http.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.NameResolution.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.NetworkInformation.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.Ping.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.Primitives.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.Requests.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.Security.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.Sockets.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.WebSockets.Client.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Net.WebSockets.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.ObjectModel.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Reflection.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Reflection.Extensions.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Reflection.Primitives.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Resources.Reader.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Resources.ResourceManager.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Resources.Writer.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.Extensions.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.Handles.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.InteropServices.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.Numerics.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Security.Claims.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Security.Principal.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Security.SecureString.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Text.Encoding.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Text.RegularExpressions.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Threading.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Threading.Overlapped.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Threading.Tasks.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Threading.Thread.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Threading.ThreadPool.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Threading.Timer.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.ValueTuple.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Xml.ReaderWriter.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Xml.XDocument.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Xml.XmlDocument.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Xml.XmlSerializer.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Xml.XPath.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\BouncyCastle.Crypto.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Google.Protobuf.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\K4os.Hash.xxHash.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\MySql.Data.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Renci.SshNet.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Buffers.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Memory.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Numerics.Vectors.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Ubiety.Dns.Core.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Zstandard.Net.dll
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Google.Protobuf.pdb
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Google.Protobuf.xml
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.xml
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\K4os.Hash.xxHash.xml
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\MySql.Data.xml
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\Renci.SshNet.xml
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Buffers.xml
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Memory.xml
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Numerics.Vectors.xml
+H:\C#\大作业\Shop (1)\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.exe.config
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.Form1.resources
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.forms.Form_Main.resources
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.Properties.Resources.resources
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Home.resources
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Sell.resources
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Buy.resources
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Person.resources
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Goods.resources
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.csproj.CopyComplete
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.exe
+H:\C#\大作业\Shop (1)\Shop\obj\Debug\Shop.pdb
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Shop.exe.config
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Shop.exe
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Shop.pdb
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\netstandard.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.AppContext.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Collections.Concurrent.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Collections.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Collections.NonGeneric.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Collections.Specialized.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.ComponentModel.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.ComponentModel.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Console.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Data.Common.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Diagnostics.Contracts.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Diagnostics.Debug.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Diagnostics.Process.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Diagnostics.Tools.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Diagnostics.Tracing.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Drawing.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Dynamic.Runtime.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Globalization.Calendars.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Globalization.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Globalization.Extensions.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.Compression.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.IsolatedStorage.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.Pipes.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Linq.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Linq.Expressions.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Linq.Parallel.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Linq.Queryable.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.Http.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.NameResolution.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.NetworkInformation.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.Ping.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.Requests.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.Security.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.Sockets.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.WebSockets.Client.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Net.WebSockets.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.ObjectModel.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Reflection.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Reflection.Extensions.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Reflection.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Resources.Reader.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Resources.ResourceManager.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Resources.Writer.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.Extensions.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.Handles.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.InteropServices.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.Numerics.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Security.Claims.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Security.Principal.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Security.SecureString.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Text.Encoding.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Text.RegularExpressions.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Threading.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Threading.Overlapped.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Threading.Tasks.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Threading.Thread.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Threading.ThreadPool.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Threading.Timer.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.ValueTuple.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Xml.ReaderWriter.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Xml.XDocument.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Xml.XmlDocument.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Xml.XmlSerializer.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Xml.XPath.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\BouncyCastle.Crypto.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Google.Protobuf.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\K4os.Hash.xxHash.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\MySql.Data.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Renci.SshNet.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Buffers.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Memory.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Numerics.Vectors.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Ubiety.Dns.Core.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Zstandard.Net.dll
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Google.Protobuf.pdb
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Google.Protobuf.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\K4os.Hash.xxHash.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\MySql.Data.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\Renci.SshNet.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Buffers.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Memory.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Numerics.Vectors.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.exe.config
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.Form1.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.forms.Form_Main.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Home.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Sell.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Buy.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Person.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Goods.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.csproj.CopyComplete
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.exe
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.pdb
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Response.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.forms.F_demands.resources
+D:\360MoveData\Users\xhkj\Desktop\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.forms.F_response.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\bin\Debug\Shop.exe.config
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.exe
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.pdb
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.Form1.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.forms.Form_Main.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.forms.F_demands.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.forms.F_response.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.Properties.Resources.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Home.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Response.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Sell.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Buy.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Person.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.UserControls.UC_Goods.resources
+E:\h5\大作业(1)\大作业(1)\Shop (1)\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Shop.exe.config
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Shop.exe
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Shop.pdb
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\netstandard.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.AppContext.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Collections.Concurrent.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Collections.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Collections.NonGeneric.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Collections.Specialized.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Console.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Data.Common.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Contracts.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Debug.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Process.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Tools.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Tracing.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Drawing.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Dynamic.Runtime.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Globalization.Calendars.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Globalization.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Globalization.Extensions.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.Compression.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.IsolatedStorage.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.Pipes.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Linq.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Linq.Expressions.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Linq.Parallel.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Linq.Queryable.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.Http.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.NameResolution.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.NetworkInformation.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.Ping.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.Requests.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.Security.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.Sockets.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.WebSockets.Client.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Net.WebSockets.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.ObjectModel.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Reflection.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Reflection.Extensions.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Reflection.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Resources.Reader.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Resources.ResourceManager.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Resources.Writer.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Extensions.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Handles.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.InteropServices.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Numerics.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Security.Claims.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Security.Principal.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Security.SecureString.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Text.Encoding.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Text.RegularExpressions.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Threading.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Threading.Overlapped.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Threading.Tasks.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Threading.Thread.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Threading.ThreadPool.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Threading.Timer.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.ValueTuple.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Xml.ReaderWriter.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Xml.XDocument.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Xml.XmlDocument.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Xml.XmlSerializer.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Xml.XPath.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\BouncyCastle.Crypto.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Google.Protobuf.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\K4os.Hash.xxHash.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\MySql.Data.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Renci.SshNet.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Buffers.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Memory.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Numerics.Vectors.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Ubiety.Dns.Core.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Zstandard.Net.dll
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Google.Protobuf.pdb
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Google.Protobuf.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\K4os.Hash.xxHash.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\MySql.Data.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\Renci.SshNet.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Buffers.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Memory.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Numerics.Vectors.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.exe.config
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.Form1.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.forms.Form_Main.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.forms.F_demands.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.forms.F_response.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Home.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Response.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Sell.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Buy.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Person.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Goods.resources
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.exe
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.pdb
+D:\360MoveData\Users\xhkj\Desktop\C#大作业\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_About.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Shop.exe.config
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Shop.exe
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Shop.pdb
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\netstandard.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.AppContext.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Collections.Concurrent.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Collections.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Collections.NonGeneric.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Collections.Specialized.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.Primitives.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Console.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Data.Common.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Contracts.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Debug.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Process.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Tools.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Tracing.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Drawing.Primitives.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Dynamic.Runtime.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Globalization.Calendars.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Globalization.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Globalization.Extensions.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.Compression.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.IsolatedStorage.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.Pipes.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Linq.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Linq.Expressions.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Linq.Parallel.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Linq.Queryable.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.Http.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.NameResolution.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.NetworkInformation.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.Ping.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.Primitives.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.Requests.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.Security.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.Sockets.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.WebSockets.Client.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Net.WebSockets.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.ObjectModel.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Reflection.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Reflection.Extensions.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Reflection.Primitives.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Resources.Reader.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Resources.ResourceManager.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Resources.Writer.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Extensions.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Handles.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.InteropServices.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Numerics.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Security.Claims.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Security.Principal.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Security.SecureString.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Text.Encoding.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Text.RegularExpressions.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Threading.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Threading.Overlapped.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Threading.Tasks.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Threading.Thread.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Threading.ThreadPool.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Threading.Timer.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.ValueTuple.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Xml.ReaderWriter.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Xml.XDocument.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Xml.XmlDocument.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Xml.XmlSerializer.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Xml.XPath.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\BouncyCastle.Crypto.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Google.Protobuf.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\K4os.Hash.xxHash.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\MySql.Data.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Renci.SshNet.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Buffers.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Memory.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Numerics.Vectors.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Ubiety.Dns.Core.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Zstandard.Net.dll
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Google.Protobuf.pdb
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Google.Protobuf.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\K4os.Hash.xxHash.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\MySql.Data.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\Renci.SshNet.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Buffers.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Memory.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Numerics.Vectors.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.exe.config
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.Form1.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.forms.Form_Main.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.forms.F_demands.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.forms.F_response.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_About.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Home.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Response.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Sell.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Buy.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Person.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Goods.resources
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.exe
+H:\C#提交\大作业\idle_goods_Shop0\idle_goods_Shop\Shop\obj\Debug\Shop.pdb
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Shop.exe.config
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Shop.exe
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Shop.pdb
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\netstandard.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.AppContext.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Collections.Concurrent.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Collections.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Collections.NonGeneric.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Collections.Specialized.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.Primitives.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Console.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Data.Common.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Contracts.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Debug.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Process.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Tools.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Diagnostics.Tracing.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Drawing.Primitives.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Dynamic.Runtime.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Globalization.Calendars.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Globalization.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Globalization.Extensions.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.Compression.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.IsolatedStorage.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.Pipes.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Linq.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Linq.Expressions.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Linq.Parallel.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Linq.Queryable.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.Http.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.NameResolution.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.NetworkInformation.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.Ping.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.Primitives.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.Requests.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.Security.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.Sockets.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.WebSockets.Client.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Net.WebSockets.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.ObjectModel.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Reflection.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Reflection.Extensions.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Reflection.Primitives.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Resources.Reader.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Resources.ResourceManager.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Resources.Writer.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Extensions.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Handles.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.InteropServices.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Numerics.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Security.Claims.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Security.Principal.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Security.SecureString.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Text.Encoding.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Text.RegularExpressions.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Threading.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Threading.Overlapped.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Threading.Tasks.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Threading.Thread.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Threading.ThreadPool.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Threading.Timer.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.ValueTuple.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Xml.ReaderWriter.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Xml.XDocument.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Xml.XmlDocument.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Xml.XmlSerializer.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Xml.XPath.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\BouncyCastle.Crypto.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Google.Protobuf.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\K4os.Hash.xxHash.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\MySql.Data.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Renci.SshNet.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Buffers.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Memory.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Numerics.Vectors.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Ubiety.Dns.Core.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Zstandard.Net.dll
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Google.Protobuf.pdb
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Google.Protobuf.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\K4os.Hash.xxHash.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\MySql.Data.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\Renci.SshNet.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Buffers.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Memory.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Numerics.Vectors.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.exe.config
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.Form1.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.forms.Form_Main.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.forms.F_demands.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.forms.F_response.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_About.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Home.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Response.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Sell.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Buy.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Person.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.UserControls.UC_Goods.resources
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.exe
+H:\C#提交\大作业\校园二手物品交易系统\idle_goods_Shop\Shop\obj\Debug\Shop.pdb
